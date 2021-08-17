@@ -2,7 +2,7 @@ from tkinter import *
 
 app = Tk()
 app.title("LEUKHEIDSMETER")
-app.geometry="300x400"
+app.geometry="400x400"
 app.configure(bg='#f0c71e')
 
 def info():
