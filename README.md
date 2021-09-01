@@ -8,7 +8,7 @@ To do's tegen volgende TtT:
 lab.github.com: intro to GitHub en Intro to Python
 Mosh (6-uur)
 
-Taakje Interface:(done)
+Taakje Interface (done):
 
 incl. geziene widgets
 mooie lay-out
